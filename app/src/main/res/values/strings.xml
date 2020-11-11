@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Reciclar</string>
+    <string name="BT_Comecar">Começar</string>
+    <string name="TV_HeaderComecar" >Olá, você está no Reciclar</string>
+    <string name="TV_BodyComecar" >Encontre coletores de residuos reciclaveis perto de você e ajude a movimentar a economia sustentavél. </string>
+</resources>
