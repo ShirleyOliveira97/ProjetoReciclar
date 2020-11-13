@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="TV_BodyComecar">#0A0A0A</color>
     <color name="TV_HeaderComecar">#020202</color>
+    <color name="DefaultPrimary">#027516</color>
 </resources>

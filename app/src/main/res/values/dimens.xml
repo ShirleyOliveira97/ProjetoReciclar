@@ -2,4 +2,5 @@
 <resources>
     <dimen name="TV_HeaderComecar">25sp</dimen>
     <dimen name="TV_BodyComecar">18sp</dimen>
+    <dimen name="MargenPadrao">10dp</dimen>
 </resources>
